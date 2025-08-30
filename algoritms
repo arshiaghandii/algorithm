@@ -1,0 +1,120 @@
+1. مرتب‌سازی (Sorting)
+
+Bubble Sort (خیلی ساده) { @ }
+
+Selection Sort { @ }
+
+Insertion Sort
+
+Shell Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Counting Sort
+
+Bucket Sort
+
+Radix Sort (از سخت‌ترین توی این دسته)
+
+🔹 2. جستجو (Searching)
+
+Linear Search (ساده‌ترین)
+
+Binary Search
+
+Jump Search
+
+Interpolation Search
+
+Exponential Search (سخت‌ترین توی این دسته)
+
+🔹 3. گراف (Graph Algorithms)
+
+Breadth First Search (BFS)
+
+Depth First Search (DFS)
+
+Topological Sort
+
+Dijkstra’s Algorithm
+
+Bellman-Ford Algorithm
+
+Floyd-Warshall Algorithm
+
+Prim’s Algorithm
+
+Kruskal’s Algorithm
+
+Kosaraju’s Algorithm
+
+A* Search Algorithm (پیچیده‌ترین توی این دسته)
+
+🔹 4. درخت‌ها (Tree Algorithms)
+
+Binary Tree Traversals (Inorder, Preorder, Postorder)
+
+Binary Search Tree (BST) Operations
+
+AVL Tree Rotations
+
+Red-Black Tree Operations
+
+Segment Tree (Range Queries, سخت‌ترین توی این دسته)
+
+🔹 5. رشته‌ای (String Algorithms)
+
+Naive String Matching
+
+Rabin-Karp Algorithm
+
+Knuth-Morris-Pratt (KMP) Algorithm
+
+Z Algorithm
+
+Boyer-Moore Algorithm (سخت‌ترین)
+
+🔹 6. برنامه‌نویسی پویا (Dynamic Programming)
+
+Fibonacci (DP Version)
+
+Maximum Subarray (Kadane’s Algorithm)
+
+Coin Change Problem
+
+Longest Increasing Subsequence (LIS)
+
+Longest Common Subsequence (LCS)
+
+Matrix Chain Multiplication
+
+0/1 Knapsack Problem
+
+Minimum Edit Distance
+
+Egg Dropping Problem
+
+Rod Cutting Problem (یکی از سخت‌ترین DPها)
+
+🔹 7. عددی و ریاضی (Math & Number Theory)
+
+Euclidean Algorithm (GCD)
+
+Extended Euclidean Algorithm
+
+Sieve of Eratosthenes
+
+Fast Exponentiation (Binary Exponentiation)
+
+Miller–Rabin Primality Test (پیچیده‌ترین توی این دسته)
+
+
+
+
+
+
+
